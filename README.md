@@ -22,9 +22,8 @@ https://ifc.booth.pm/items/3365816
 初期ロットの付属フラットケーブルについては、コネクタの入手が都合によりツメが無いコネクタを採用しています。  
 逆接続が可能なため基板上の50pinコネクタの白ポチ同士が同じ色のケーブルが来るようにストレートに必ず接続してください。  
 なおケーブルにはUL規格に準拠した取り回しが楽なスダレタイプのケーブルを採用しています。  
-![ConnectImageA](./image5.jpg "ConnectImageA")  
-![ConnectImageB](./image6.jpg "ConnectImageB")  
-![ConnectImageC](./image7.jpg "ConnectImageC")  
+![ConnectImageA](./Image5.jpg "ConnectImageA")  
+![ConnectImageB](./Image6.jpg "ConnectImageB")![ConnectImageC](./Image7.jpg "ConnectImageC")  
 
 特殊なケーブルでは無いので、任意の50ピンのIDF規格のケーブルが使用できます。  
 ただ、MSXバスをそのまま延長しているため、あまり長くしすぎるとノイズなどで誤動作の原因になる可能性があります。
@@ -41,8 +40,7 @@ https://ifc.booth.pm/items/3365816
 RGRさんのTransparent Cartridge Shell for MSX Konami-styleを切削加工したものを使用しています。  
 https://retrogamerestore.com/store/msx_cart_shell/  
   
-![ShellImageA](./image8.jpg "ShellImageA")  
-![ShellImageB](./image9.jpg "ShellImageB")  
+![ShellImageA](./Image8.jpg "ShellImageA")![ShellImageB](./Image9.jpg "ShellImageB")  
 
 当方でも加工済みシェルを用意しており、シェルはBoothや委託先でも購入が可能です。  
 輸入と加工の都合で若干の小傷がある場合があります。あらかじめご了承ください。  
